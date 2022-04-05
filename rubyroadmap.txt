@@ -1,0 +1,12 @@
+Roadmap to learn Ruby programming language:
+
+  - Basic of the language such as it's paradigms and so.
+  - Data types.
+  - Variables and Constants.
+  - Strings.
+  - Arrays.
+  - Hashes.
+  - Symbols.
+  - Methods and Methods with Parameters.
+  - Object orientation in Ruby.
+
