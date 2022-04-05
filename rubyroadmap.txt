@@ -10,6 +10,8 @@
   - Arrays.
   - Hashes.
   - Symbols.
+- Decision Control Structure or Conditional Statments.
+- Loop Control Structure.
 - Methods and Methods with Parameters.
 - Object orientation in Ruby.
 - Modules (or special classes)
