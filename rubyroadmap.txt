@@ -3,6 +3,9 @@
 
 - Basic of the language such as it's paradigms and so.
 - Variables and Constants.
+- irb, puts, print and gets.
+- Operators.
+- Hierarchy and Precedence of Operators.
 - built-in datatypes:
   - Numbers.
   - Booleans.
