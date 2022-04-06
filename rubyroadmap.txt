@@ -18,6 +18,7 @@
 - Some commonly used keywords: break, next.
 - Decision Control Structure: Conditional and case statements.
 - Loop Control Structure.
+- Symbols.
 - Methods.
 - Methods vs Procedure.
 - Methods with Parameters.
