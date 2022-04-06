@@ -18,6 +18,9 @@
 - Some commonly used keywords: break, next.
 - Decision Control Structure: Conditional and case statements.
 - Loop Control Structure.
-- Methods and Methods with Parameters.
+- Methods.
+- Methods vs Procedure.
+- Methods with Parameters.
 - User-defined data types: Object orientation in Ruby.
 - Modules (or special classes)
+
