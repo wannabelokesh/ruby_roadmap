@@ -16,7 +16,7 @@
   - Hashes.
   - Symbols.
 - Some commonly used keywords: break, next.
-- Decision Control Structure or Conditional Statments.
+- Decision Control Structure: Conditional and case statements.
 - Loop Control Structure.
 - Methods and Methods with Parameters.
 - User-defined data types: Object orientation in Ruby.
