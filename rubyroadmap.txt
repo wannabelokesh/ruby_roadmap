@@ -4,12 +4,13 @@
 - Basic of the language such as it's paradigms and so.
 - Variables and Constants.
 - built-in datatypes:
-  - Numbers
-  - Booleans
+  - Numbers.
+  - Booleans.
   - Strings.
   - Arrays.
   - Hashes.
   - Symbols.
+- Some commonly used keywords: break, next.
 - Decision Control Structure or Conditional Statments.
 - Loop Control Structure.
 - Methods and Methods with Parameters.
