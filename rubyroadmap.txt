@@ -1,9 +1,11 @@
 ### Roadmap to learn the ###
 ### Ruby Programming Language ###
 
-- Basic of the language such as it's paradigms and so.
+- Gentle Introduction: Basic of the language such as it's paradigms, 
+  where and when to/not to use it and all such things.
+- irb.
 - Variables and Constants.
-- irb, puts, print and gets.
+- Commonly used Methods like: puts, putc, print, printf, gets, chomp().
 - Operators.
 - Hierarchy and Precedence of Operators.
 - built-in datatypes:
@@ -17,5 +19,5 @@
 - Decision Control Structure or Conditional Statments.
 - Loop Control Structure.
 - Methods and Methods with Parameters.
-- Object orientation in Ruby.
+- User-defined data types: Object orientation in Ruby.
 - Modules (or special classes)
