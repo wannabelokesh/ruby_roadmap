@@ -8,6 +8,8 @@
 - Commonly used Methods like: puts, putc, print, printf, gets, chomp().
 - Operators.
 - Hierarchy and Precedence of Operators.
+- blocks.
+- ranges.
 - built-in datatypes:
   - Numbers.
   - Booleans.
@@ -15,7 +17,7 @@
   - Arrays.
   - Hashes.
   - Symbols.
-- Some commonly used keywords: break, next.
+- Some commonly used keywords: break, next, redo, retry.
 - Decision Control Structure: Conditional and case statements.
 - Loop Control Structure.
 - Symbols.
