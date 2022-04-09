@@ -20,10 +20,17 @@
 - Some commonly used keywords: break, next, redo, retry.
 - Decision Control Structure: Conditional and case statements.
 - Loop Control Structure.
+- Scoping.
 - Symbols.
 - Methods.
 - Methods vs Procedure.
 - Methods with Parameters.
-- User-defined data types: Object orientation in Ruby.
+- User-defined data types: Classes and Objects.
+- Contructors.
+- Getters and Setters.
 - Modules (or special classes)
-
+- Inheritance.
+- Polymorphism.
+- Encapsulation.
+- Multi-threading.
+- Mixins.
