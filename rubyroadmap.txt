@@ -20,6 +20,7 @@
 - Some commonly used keywords: break, next, redo, retry.
 - Decision Control Structure: Conditional and case statements.
 - Loop Control Structure.
+- Recursion.
 - Scoping.
 - Symbols.
 - Methods.
