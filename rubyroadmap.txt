@@ -25,7 +25,7 @@
 - Symbols.
 - Methods.
 - Methods vs Procedure.
-- Methods with Parameters.
+- Method Parameters: single, multiple, default and optional.
 - User-defined data types: Classes and Objects.
 - Contructors.
 - Getters and Setters.
